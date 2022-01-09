@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-06T17:13:03 WAT" name="Default suite" finished-at="2022-01-06T17:13:35 WAT" duration-ms="31995">
+    <groups>
+    </groups>
+    <test started-at="2022-01-06T17:13:03 WAT" name="Default test" finished-at="2022-01-06T17:13:35 WAT" duration-ms="31995">
+      <class name="Tests.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.HomePageTest@359df09a]" started-at="2022-01-06T17:13:03 WAT" name="setUp" finished-at="2022-01-06T17:13:10 WAT" duration-ms="6597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Check_Menu_Display()[pri:0, instance:Tests.HomePageTest@359df09a]" started-at="2022-01-06T17:13:10 WAT" name="Check_Menu_Display" finished-at="2022-01-06T17:13:20 WAT" duration-ms="9740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_Menu_Display -->
+        <test-method signature="Check_Topnet_Logo_Display()[pri:0, instance:Tests.HomePageTest@359df09a]" started-at="2022-01-06T17:13:20 WAT" name="Check_Topnet_Logo_Display" finished-at="2022-01-06T17:13:20 WAT" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_Topnet_Logo_Display -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.HomePageTest@359df09a]" started-at="2022-01-06T17:13:20 WAT" name="tearDown" finished-at="2022-01-06T17:13:20 WAT" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.HomePageTest -->
+      <class name="Tests.DefaultPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.DefaultPageTest@302c971f]" started-at="2022-01-06T17:13:20 WAT" name="setUp" finished-at="2022-01-06T17:13:27 WAT" duration-ms="7076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="DefaultPageTest()[pri:0, instance:Tests.DefaultPageTest@302c971f]" started-at="2022-01-06T17:13:27 WAT" name="DefaultPageTest" finished-at="2022-01-06T17:13:35 WAT" duration-ms="7423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DefaultPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.DefaultPageTest@302c971f]" started-at="2022-01-06T17:13:35 WAT" name="tearDown" finished-at="2022-01-06T17:13:35 WAT" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.DefaultPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
